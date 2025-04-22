@@ -1,0 +1,6 @@
+Aula de manipulaï¿½ï¿½o de arquivos em Python...Escrevendo dados em um arquivo
+Criando uma nova linha
+Incluindo uma nova linha...
+João da Silva
+Maria Antonieta
+Joaquim Souza
